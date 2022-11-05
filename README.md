@@ -1,7 +1,8 @@
 # Treee App
 ## Firebase Project
 #### 부제: DailyThreeThanks
-![appIcon](https://github.com/mdy0501/TIL/blob/master/Study/Android/Mini%20Project/Treee/graphics/appIcon.png)
+![appIcon](https://github.com/mdy0501/Treee/blob/master/Readme_images/appIcon.png)
+
 
 <br>
 
@@ -19,8 +20,8 @@
 <br>
 
 ## Treee App 화면
-![Treee_01](https://github.com/mdy0501/TIL/blob/master/Study/Android/Mini%20Project/Treee/graphics/Treee_01.png)
-![Treee_02](https://github.com/mdy0501/TIL/blob/master/Study/Android/Mini%20Project/Treee/graphics/Treee_02.png)
+![Treee_01](https://github.com/mdy0501/Treee/blob/master/Readme_images/Treee_01.png)
+![Treee_02](https://github.com/mdy0501/Treee/blob/master/Readme_images/Treee_02.png)
 
 <br>
 
